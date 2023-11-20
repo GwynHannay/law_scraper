@@ -1,1 +1,22 @@
 constitution: https://www.legislation.gov.au/Browse/ByTitle/Constitution/InForce
+acts:
+  in_force: https://www.legislation.gov.au/Browse/ByTitle/Acts/InForce/0/0/Principal
+  not_in_force: https://www.legislation.gov.au/Browse/ByTitle/Acts/NoLongerInForce/0/0/Principal
+  as_made: https://www.legislation.gov.au/Browse/ByTitle/Acts/Asmade/0/0/All
+legislative_instruments:
+  in_force: https://www.legislation.gov.au/Browse/ByTitle/LegislativeInstruments/InForce/0/0/Principal
+  not_in_force: https://www.legislation.gov.au/Browse/ByTitle/LegislativeInstruments/NoLongerInForce/0/0/Principal
+  as_made: https://www.legislation.gov.au/Browse/ByTitle/LegislativeInstruments/Asmade/0/0/All
+  open_to_disallow: https://www.legislation.gov.au/Browse/ByTitle/LegislativeInstruments/OpentoDisallowance
+  disallowed: https://www.legislation.gov.au/Browse/ByTitle/LegislativeInstruments/Disallowed
+  sunsetting: https://www.legislation.gov.au/Browse/BySunsetDate/LegislativeInstruments/SunsettingSoon/0/
+notifiable_instruments:
+  in_force: https://www.legislation.gov.au/Browse/ByTitle/NotifiableInstruments/InForce/0/0/Principal
+  not_in_force: https://www.legislation.gov.au/Browse/ByTitle/NotifiableInstruments/NoLongerInForce/0/0/Principal
+  as_made: https://www.legislation.gov.au/Browse/ByTitle/NotifiableInstruments/Asmade/0/0/All
+bills:
+  as_made: https://www.legislation.gov.au/Browse/ByTitle/Bills/Asmade/0/0
+  private: https://www.legislation.gov.au/Browse/ByPrivateMembers/Bills/Asmade/0/0
+  government: https://www.legislation.gov.au/Browse/ByPortfolio/Bills/Asmade/0/0
+admin_orders: https://www.legislation.gov.au/Browse/ByRegDate/AdministrativeArrangementsOrders/InForce
+prerogative_instruments: https://www.legislation.gov.au/Browse/ByTitle/PrerogativeInstruments/InForce/0/0
